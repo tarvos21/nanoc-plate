@@ -85,7 +85,7 @@ compile '**/*' do
   end
 end
 
-route '/index.*' do
+route '**/*/index.*' do
   item.identifier.without_ext + '.html'
 end
 
