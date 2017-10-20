@@ -125,16 +125,16 @@ base_url: http://nanoc-plate.github.io
 
 meta:
   # Default title, that is added to an item's own title
-  title: Nanoc-Plate, a New Way to Build Websites.
+  title: Website default title
 
   # Default author of a page
-  author: Xiao Hanyu
+  author: Bingo Du
 
   # E-mail address used in contact information, etc.
-  email: xiaohanyu1988@gmail.com
+  email: tarvos21@gmail.com
 
   # Default keywords to use when an item does not specify its own
-  keywords: Nanoc, Websites, Blog, Static
+  keywords: Website, Keywords, What, How
 
   # Default description to use when an item does not specify its own
-  description: Nanoc-Plate, a New Way to Build Websites.
+  description: Description paragraph
